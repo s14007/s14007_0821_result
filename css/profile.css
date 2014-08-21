@@ -1,0 +1,15 @@
+#pito{
+   padding:10px;
+}
+
+#link{
+   float:left;
+   text-align:center;
+   border:1px solid #000000;
+   background-color:#000000;
+   text:#ffffff;
+}
+#comment{
+   margin:10px;
+   padding:10px;
+}
